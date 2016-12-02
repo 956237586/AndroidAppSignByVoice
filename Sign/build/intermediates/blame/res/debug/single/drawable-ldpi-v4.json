@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "I:\\AndroidProject\\Sign\\Sign\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_menu_send.png",
+        "source": "I:\\AndroidProject\\Sign\\Sign\\src\\main\\res\\drawable-ldpi\\ic_menu_send.png"
+    },
+    {
+        "merged": "I:\\AndroidProject\\Sign\\Sign\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_menu_info.png",
+        "source": "I:\\AndroidProject\\Sign\\Sign\\src\\main\\res\\drawable-ldpi\\ic_menu_info.png"
+    },
+    {
+        "merged": "I:\\AndroidProject\\Sign\\Sign\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_menu_template.png",
+        "source": "I:\\AndroidProject\\Sign\\Sign\\src\\main\\res\\drawable-ldpi\\ic_menu_template.png"
+    },
+    {
+        "merged": "I:\\AndroidProject\\Sign\\Sign\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon.png",
+        "source": "I:\\AndroidProject\\Sign\\Sign\\src\\main\\res\\drawable-ldpi\\icon.png"
+    }
+]

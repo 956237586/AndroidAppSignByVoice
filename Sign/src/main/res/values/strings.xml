@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">签到系统</string>
+    <string name="start">开始签到</string>
+    <string name="stop">停止</string>
+    <string name="clear">清空</string>
+</resources>
